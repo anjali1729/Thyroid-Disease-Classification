@@ -1,2 +1,4 @@
 # Thyroid-Disease-Classification
 CLASSIFICATION OF THYROID DISEASE : SVM APPROACH , multi-class classification
+
+Analyzing medical data set involves challenging tasks because of the minute variations for analysis. Medical database consists of different modalities taken under varied conditions with variable accuracy of annotation. Classification is one of the fundamental tasks involved in any process. The input for a classification is a set of training records where each record has several attributes. The main objective of this report is to apply SVM for multiclass classification and compare the different models obtained by fine tuning it, for thyroid data set from UCI. This is important to ensure a stable knowledge base can be established in the hybrid model for solving complex learning tasks, such as in medical diagnosis and prognosis applications.
